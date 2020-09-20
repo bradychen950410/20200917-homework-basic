@@ -7,4 +7,4 @@
 
 ---
 
-Repl 連結：
+Repl 連結：https://repl.it/@BradyChen0410/multiple#main.cpp
